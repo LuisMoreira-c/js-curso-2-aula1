@@ -22,6 +22,7 @@ function verificarChute() {
         } else { 
             exibirTextoNaTela('p', ' O numero secreto é maior');
         }
+        tentativas ++
     }
 }
 
